@@ -1,8 +1,8 @@
-#Animal_AI
+#  Animal_AI
 
 This is a simulation of a simple animal ecosystem built in **Unreal Engine 5**, featuring dynamic AI behavior for both predators and herbivores.
 
-##Project Overview
+##  Project Overview
 
 The goal of this project was to explore naturalistic AI systems through a small ecosystem simulation.  
 The two main species — **hippos** and **lions** — behave differently based on internal states and environmental interactions.
@@ -18,12 +18,12 @@ NPCs are controlled by **custom state machines** with behaviors such as:
 
 Predators detect nearby prey and attack, while herbivores like hippos either run or defend themselves based on their gender.
 
-## Demo Video
+##  Demo Video
 
 You can watch a full demo with commentary here:  
-[Watch on YouTube]([https://your-youtube-link-here.com](https://youtu.be/48MnfT_FySk))
+ [Watch on YouTube](https://youtu.be/48MnfT_FySk)
 
-## Technologies Used
+##  Technologies Used
 
 - Unreal Engine 5 (Blueprints & Behavior Trees)
 - Navigation System
